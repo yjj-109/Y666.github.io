@@ -14,7 +14,6 @@ author:
   email: Edisonyang109@outlook.com
 
 # Minimal Mistakes theme settings
-theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
 
 # Choose your theme skin
